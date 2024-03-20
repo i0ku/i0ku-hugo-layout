@@ -1,0 +1,17 @@
+baseURL = 'http://i0ku.net/'
+languageCode = 'no'
+title = 'i0ku'
+[menu]
+  [[menu.main]]
+    identifier = "om"
+    name = "om"
+    url = "/om"
+    weight = 20
+
+  [[menu.main]]
+    identifier = "artikler"
+    name = "artikler"
+    url = "/artikler"
+    weight = 10
+
+
