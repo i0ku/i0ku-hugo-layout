@@ -12,6 +12,10 @@ body{
 	margin-top: 50px;
 }
 
+footer{
+	padding-bottom: 25px;
+}
+
 h1{
 	font-size: 35px;
 	text-shadow: 0 0 3px white;
