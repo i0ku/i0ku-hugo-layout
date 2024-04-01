@@ -3,15 +3,8 @@ languageCode = 'no'
 title = 'i0ku'
 [menu]
   [[menu.main]]
-    identifier = "om"
-    name = "om"
-    url = "/om"
+    identifier = "xyz"
+    name = "navn"
+    url = "/sti"
     weight = 20
-
-  [[menu.main]]
-    identifier = "artikler"
-    name = "artikler"
-    url = "/artikler"
-    weight = 10
-
 
