@@ -1,6 +1,6 @@
-baseURL = 'http://i0ku.net/'
+baseURL = 'http://xyz.com/'
 languageCode = 'no'
-title = 'i0ku'
+title = 'xyz'
 [menu]
   [[menu.main]]
     identifier = "xyz"
