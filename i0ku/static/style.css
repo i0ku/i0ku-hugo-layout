@@ -13,6 +13,7 @@ body{
 }
 
 footer{
+	margin-top: 20px;
 	padding-bottom: 25px;
 }
 
@@ -58,8 +59,8 @@ main{
 }
 
 main p{
-	text-align: left;
 	line-height: 1.5;
+	text-align: left;
 }
 
 .site-nav {
@@ -86,9 +87,10 @@ main p{
 }
 
 main img{
+	width: 100%;
+	height: auto;
 	display: block;
-	margin-left: auto;
-	margin-right: auto;
+	margin: 0 auto;
 }
 
 strong{
