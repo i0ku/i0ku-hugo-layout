@@ -7,3 +7,6 @@ Eksempel på bilde kode i content:
 
 Eksempel på å skjule tekst:
 {{< hide hidden="skriv hva du vil her">}}
+
+Eksempel på å skjule lenker:
+{{< hide_link url="abc.xyz" content="tekst som vises" >}}
