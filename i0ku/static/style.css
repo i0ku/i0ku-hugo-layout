@@ -97,3 +97,16 @@ strong{
 	text-shadow: 0 0 3px white;
 	font-size: 25px;
 }
+
+#hidden{
+	color: #1fc742;
+	background-color:#1fc742;
+	width: fit-content;
+	margin: 0;
+	padding: 0;
+}
+
+#hidden:hover{
+	background-color: black;
+	color: white;
+}
