@@ -6,4 +6,4 @@ Eksempel på bilde kode i content:
 {{< image url="/img/ditt_bilde.jpg" alt="Alternativ tekst" width="500px">}}
 
 Eksempel på å skjule tekst:
-{{< hide hidden="content.">}}
+{{< hide hidden="skriv hva du vil her">}}
