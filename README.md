@@ -1,6 +1,6 @@
 # i0ku mal
 
-Hugo mal for nettsiden i0ku.net
+[Hugo](https://gohugo.io/) mal for nettsiden i0ku.net
 
 Eksempel på bilde kode i content:
 
